@@ -1,0 +1,4 @@
+Bundle-Name: liferay-sessionclicks-web
+Bundle-SymbolicName: com.chberndt.liferay.portlet
+Bundle-Version: 1.0.0
+Export-Package: com.chberndt.liferay.portlet.constants
